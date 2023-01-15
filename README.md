@@ -1,5 +1,6 @@
 # Hi! I'm Nimrod!
-I’m currently learning full stack web and Android development at Sela College,  in a special program for newly realesed IDF combat soldiers.
+Recently graduated from a full stack web and course at Sela College,  in a special program for newly realesed IDF combat soldiers. I also independently study Android Development w/ Kotlin.
+Looking forward to expand my knowledge in software development and computer sciences!
 
 ## My Tech Stack:
 - C#
@@ -9,6 +10,8 @@ I’m currently learning full stack web and Android development at Sela College,
 - JavaScript
 - TypeScript
 - Angular
+- React
+- Vue
 - TailWind
 - Bootstrap
 - MSSQL
@@ -18,7 +21,7 @@ I’m currently learning full stack web and Android development at Sela College,
 
 
 
-## 📫 How to reach me?
+## How to reach me?
 - nimnimshai@gmail.com
 - https://www.linkedin.com/in/nimrod-shai
 
