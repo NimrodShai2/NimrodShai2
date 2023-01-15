@@ -20,7 +20,7 @@ I’m currently learning full stack web and Android development at Sela College,
 
 ## 📫 How to reach me?
 - nimnimshai@gmail.com
-- https://www.linkedin.com/in/nimrod-shai-49042424b/
+- https://www.linkedin.com/in/nimrod-shai
 
 <!---
 NimrodShai2/NimrodShai2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
