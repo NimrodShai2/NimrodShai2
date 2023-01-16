@@ -3,23 +3,38 @@ Recently graduated from a full stack web and course at Sela College,  in a speci
 Looking forward to expand my knowledge in software development and computer sciences!
 
 ## My Tech Stack:
+
+### Languages
 - C#
 - Kotlin
 - HTML5
 - CSS3
 - JavaScript
 - TypeScript
+- SQL
+
+### Frameworks
 - Angular
 - React
-- Vue
+- Vue 3
 - Tailwind CSS
 - Bootstrap
-- MSSQL
-- ASP.NET
+- Microsoft SQL Server
+- ASP.NET Core
+- Android Studio
 
+### Tools
+- Docker
+- Git
+- Github
+- Visual Studio
+- VS Code
 
-
-
+### Concepts
+- MVVM
+- MVC
+- OOP
+- REST API
 
 ## How to reach me?
 - nimnimshai@gmail.com
