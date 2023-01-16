@@ -12,7 +12,7 @@ Looking forward to expand my knowledge in software development and computer scie
 - Angular
 - React
 - Vue
-- TailWind
+- Tailwind CSS
 - Bootstrap
 - MSSQL
 - ASP.NET
