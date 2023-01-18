@@ -34,14 +34,15 @@ I recently graduated from a full stack web and course at Sela College,  in a spe
 - ![](https://img.icons8.com/color/48/000000/github.png) GitHub
 - ![](https://img.icons8.com/color/48/000000/docker.png) Docker
 - ![](https://img.icons8.com/color/48/000000/visual-studio.png) Visual Studio
-- ![](https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg) Visual Studio Code
+- ![](https://img.icons8.com/fluency/48/null/visual-studio-code-2019.png) Visual Studio Code
 - ![](https://img.icons8.com/color/48/000000/android-studio.png) Android Studio
 
 
 ### Reach out to me:
 - Email: nimnimshai@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nimrod-shai
-- 
+
+
 ##### I am also open for  work, so don't hesitate to contact me for any openings or collaborations you might want.
 
 ##### Thanks for visiting my page!
