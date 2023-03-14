@@ -6,7 +6,7 @@ I recently graduated from a full stack web and course at Sela College,  in a spe
 ### Check out some of my recent projects:
 - [Pet Shop Web App](https://github.com/NimrodShai2/PetShop) - A web app which allows users to browse and manage pets and animals.
 - [Android Drawing App](https://github.com/NimrodShai2/DrawingApp) - A drawing app, resembling Microsoft Paint.
-- [Boxes Storage](https://github.com/NimrodShai2/BoxesStorageProject) - A data structures project, including implementations of several data structures.
+- [Android Workout App](https://github.com/NimrodShai2/WorkoutApp) - A 7-minute workout app, including text to speech and languages support.
 
 ### Tech Stack
 
