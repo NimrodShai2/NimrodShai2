@@ -8,8 +8,8 @@ I'm a Computational Biology and Computer Science student passionate about levera
 
 ## ⚙️ Technical Skills
 
-- **Programming Languages:** Python, R, C, C++, SQL
-- **Data Science & Algorithms:** Data Analysis, Algorithm Development
+- **Programming Languages:** Python, R, C, C++, SQL, Java, JavaScript
+- **Data Science & Algorithms:** Data Analysis, Algorithm Development, Machine Learning
 - **Frameworks & Tools:** Pandas, NumPy, Scikit-learn, SLURM, Git & GitHub, Shell Scripting
 
 ---
