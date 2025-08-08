@@ -38,7 +38,7 @@ I'm a Computational Biology and Computer Science student passionate about levera
 ## 📫 Let's Connect!
 
 - **Email:** [nimnimshai@gmail.com](mailto:nimnimshai@gmail.com)
-- **GitHub:** [NimrodShai2](https://github.com/NimrodShai2)
+- **LinkedIn:** [Nimrod Shai](https://www.linkedin.com/in/nimrod-shai/)
 
 I'm always looking forward to collaborating, exchanging ideas, or discussing exciting projects!
 
